@@ -5,10 +5,10 @@ Lending Club Case Study
 
 
 ## Table of Contents
-* [General Info]
-* [Technologies Used]
-* [Conclusions]
-* [Acknowledgements]
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -44,22 +44,23 @@ In other words, to understand the driving factors (or driver variables) behind l
 
 
 ## Technologies Used
-- Python - version 3.2
-- Seaborn
-- Matplot
+- [Python](https://www.python.org/) - version 3.11.7
+- [Matplotlib](https://matplotlib.org/) - version 3.8.0
+- [Numpy](https://numpy.org/) - version 1.26.4
+- [Pandas](https://pandas.pydata.org/) - version 2.1.4
+- [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on EDA.
+- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+- [Ramakrishna K]
+- [Purna Chandrarao V] 
 
 
 <!-- Optional -->
